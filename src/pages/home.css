@@ -1,0 +1,40 @@
+.jumbotron2 {
+    background-image: url("../images/map.jpg");
+    background-size: cover;
+    background-blend-mode: lighten;
+  }
+  .loginImage {
+    background-image: url("https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnRhaW4lMjBhbmQlMjBmb3Jlc3R8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-size:cover;
+    background-blend-mode: lighten;
+  }
+  .heroText{
+    color: black;
+    font-weight: 700;
+    font-size:2rem;
+  }
+  @media (min-width: 576px) { 
+    .heroText{
+      font-size: 2rem;
+    }
+   }
+  
+  
+  @media (min-width: 768px) { 
+    .heroText{
+      font-size: 3rem;
+    }
+   }
+  
+  
+  @media (min-width: 992px) { 
+    .heroText{
+      font-size: 5rem;
+    }
+  }
+  
+  
+  
+  
+  
+  
